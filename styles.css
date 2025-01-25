@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    color: white;
+
+}
+
+.container{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction:column;
+    background-color: rgb(32, 32, 32);
+    
+}
+
+.image{
+    border-radius: 50%;
+}
+
+.location{
+
+}
+
+.description{
+
+}
+
+.github{
+    background-color: grey;
+}
+
+.FEmentor{
+    background-color: grey;
+}
+
+.Linkedin{
+    background-color: grey;
+}
+
+.x{
+    background-color: grey;
+}
+
+.ig{
+    background-color: grey;
+}
