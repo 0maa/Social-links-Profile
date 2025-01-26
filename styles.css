@@ -33,20 +33,35 @@ body{
 
 .github{
     background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
 }
 
 .FEmentor{
     background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
 }
 
 .Linkedin{
     background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
 }
 
 .x{
     background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
 }
 
 .ig{
     background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
 }
